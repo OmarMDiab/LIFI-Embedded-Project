@@ -4,8 +4,10 @@ This repository contains the project work for the **Li-Fi** Project developed as
 ## Introduction
 Li-Fi, or Light Fidelity, is a wireless communication technology that utilizes light to transmit data and information among different devices. This project aims to build a small prototype (Sender + Receiver) for hazard detection in homes using Li-Fi technology.
 
+
 ## System Layout
-![System Layout](https://github.com/OmarMDiab/LIFI-Embedded-Project/blob/main/SystemLayout.png?raw=true)
+![System Layout](https://github.com/OmarMDiab/LIFI-Embedded-Project/raw/main/SystemLayout.png)
+
 
 
 | Sender Platform     | Receiver Platform | Alarms               |
