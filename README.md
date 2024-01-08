@@ -6,7 +6,7 @@ Li-Fi, or Light Fidelity, is a wireless communication technology that utilizes l
 
 
 ## System Layout
-![System Layout](https://github.com/OmarMDiab/LIFI-Embedded-Project/raw/main/SystemLayout.png)
+![System Layout](https://github.com/OmarMDiab/LIFI-Embedded-Project/raw/main/System_Layout.png)
 
 
 
